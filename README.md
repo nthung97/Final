@@ -1,12 +1,8 @@
 # Final
 1551027- Nguyễn Ngọc Long Quân
-
 1551010- Nguyễn Thái Hưng
-
 1551045- Nguyễn Thanh Tùng
-
 1551032- Tô Minh Thành
-
 
 Manual
 
